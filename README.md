@@ -1,0 +1,2 @@
+ Welcome to my headphone design project. thus repository contains the design and front-end implementation of a responsive webpage for a headphone product. the design is built using figms, and the webpage is optimized for both desktop and mobile viewports.
+ 
