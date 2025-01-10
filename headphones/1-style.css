@@ -1,5 +1,5 @@
 .what-we-do h2 {
-    padding-top: 100px;
+    padding-top: 70px;
 }
 
 .centered-text {
@@ -39,7 +39,7 @@ image-card {
     font-size: 1rem;
     color:#071629;
     line-height: 26px;
-    margin: 50px 0;
+    margin: 40px 0;
 }
 /* Responsive */
 @media  screen and (max-width:1024px) and (min-width: 481px){
@@ -58,6 +58,6 @@ image-card {
     .image-row {
         flex-direction: column;
         align-items: center;
-        padding-bottom: 50px;
+        padding-bottom: 40px;
     }
 }
