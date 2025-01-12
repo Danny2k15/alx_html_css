@@ -12,7 +12,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    max-width: 200px;
     flex: 1 1 calc(25% - 56px);
     position: relative;
     text-align: center;
